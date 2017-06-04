@@ -4,7 +4,7 @@ angular.module('starter.services', [])
   
   return{
     getData:function(url,params){
-      var serce_url='https://m.yikaotop.com/app/yi_v2/api';
+      var serce_url='https:xxxxxxxxxxxxx';
       if(!params){
         params={}
       }
